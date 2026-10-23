@@ -1,8 +1,8 @@
 {
-  "Schema": 1,
-  "App": "RK",
-  "Version": "2026.10.20.1",
-  "DownloadUrl": "https://github.com/curtner04/record-keeper-downloads/releases/download/record-keeper-2026.10.20.1-92f1670052d9d307/RK-Setup.exe",
-  "SHA256": "92f1670052d9d3073588820cd30136cc56fd8957ebb46126d70b772c01e06aae",
-  "Bytes": 4889417
+    "Schema":  1,
+    "App":  "RK",
+    "Version":  "2026.10.22.1",
+    "DownloadUrl":  "https://github.com/curtner04/record-keeper-downloads/releases/download/record-keeper-2026.10.22.1-c37813c79ba218ff/RK-Setup.exe",
+    "SHA256":  "c37813c79ba218ff07f73e00995594d8a929efd9c4d4912147857ae67a357eb8",
+    "Bytes":  4895774
 }
